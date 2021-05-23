@@ -4,3 +4,5 @@ List of colors
 3. Black
 4. Purple
 5. Orange
+6. Violet
+7. Green
