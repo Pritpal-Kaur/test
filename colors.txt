@@ -6,3 +6,5 @@ List of colors
 5. Orange
 6. Violet
 7. Green
+8. Yellow
+9. Pink
